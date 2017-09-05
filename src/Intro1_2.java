@@ -1,3 +1,10 @@
+/**
+ * Purpose: Display Username and password with welcome to csc200
+ * @author Sami Jr
+ * @License GNU
+ * Created by SKommu on 9/05/2017
+ */
+
 import java.util.Scanner;
 
 public class Intro1_2 {
